@@ -1,0 +1,12 @@
+build/*
+.gradle/*
+gradlew*
+*/build/*
+.idea/*
+*/.idea/*
+gradle
+.gradle/*
+*/gradle
+*/.gradle*
+*/classes*
+classes*
